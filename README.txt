@@ -1,3 +1,5 @@
+Link to the host (It might takes some time to wake up the host, so please be patient): https://spaceera.dmitriykim01.repl.co
+
 This is a brief description of all our pages. 
 
 01_Planets: Contains 4 html docs that are exactly similar by the structure, however the content (text, images, etc,) in each is different.
